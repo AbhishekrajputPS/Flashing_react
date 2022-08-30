@@ -8,9 +8,7 @@ function App() {
     <div className="container mt-5">
       <Basic heading = "flashing the Board"/>
     </div>
-
     </>
-  
   );
 }
 
