@@ -1,0 +1,50 @@
+{
+  "None": {
+    "Board_type": "None",
+    "BoardFarm_USER": "",
+    "BoardFarm_IP": "",
+    "BoardFarm_PASS": "",
+    "DeviceUSB": "",
+    "Boot_With": "",
+    "Board_IP": "",
+    "MMC_BLOCK": "",
+    "BIN_PATH": ""
+  },
+
+  "BR1": {
+    "Board_type": "BR1",
+    "BoardFarm_USER": "root",
+    "BoardFarm_IP": "192.168.2.152",
+    "BoardFarm_PASS": "root",
+    "DeviceUSB": "2",
+    "Boot_With": "sd",
+    "Board_IP": "192.168.2.152",
+    "MMC_BLOCK": "mmc0",
+    "BIN_PATH": "home/user/syte"
+  },
+
+  "BR2": {
+    "Board_type": "BR2",
+    "BoardFarm_USER": "bhoopesh",
+    "BoardFarm_IP": "192.168.2.82",
+    "BoardFarm_PASS": "admin@1234",
+    "DeviceUSB": "0",
+    "Boot_With": "sd",
+    "Board_IP": "192.168.2.152",
+    "MMC_BLOCK": "mmc0",
+    "BIN_PATH": "home/user/syte"
+  },
+
+  "BR3": {
+    "Board_type": "BR3",
+    "BoardFarm_USER": "bhoopesh",
+    "BoardFarm_IP": "192.168.3.123",
+    "BoardFarm_PASS": "admin@1234",
+    "DeviceUSB": "0",
+    "Boot_With": "sd",
+    "Board_IP": "192.168.2.152",
+    "MMC_BLOCK": "mmc0",
+    "BIN_PATH": "home/user/syte"
+  }
+
+}
